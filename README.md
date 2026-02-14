@@ -1,2 +1,0 @@
-# jkmsource
-source for altstore
